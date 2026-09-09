@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "cbccompletestealarmor:sa_sand"
+  },
+  "result": {
+    "id": "cbccompletestealarmor:sa_black",
+    "count": 1
+  }
+}

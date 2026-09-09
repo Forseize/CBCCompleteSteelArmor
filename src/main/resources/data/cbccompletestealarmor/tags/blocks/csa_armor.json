@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cbccompletestealarmor:csa_black",
+    "cbccompletestealarmor:csa_gray",
+    "cbccompletestealarmor:csa_green",
+    "cbccompletestealarmor:csa_sand",
+    "cbccompletestealarmor:csa_steel"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "CBC"
+  ],
+  "key": {
+    "C": {
+      "item": "createbigcannons:cast_iron_ingot"
+    },
+    "B": {
+      "item": "create:brass_ingot"
+    }
+  },
+  "result": {
+    "id": "cbccompletestealarmor:ca_gray",
+    "count": 8
+  }
+}

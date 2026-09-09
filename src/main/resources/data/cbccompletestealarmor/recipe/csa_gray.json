@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "BSB"
+  ],
+  "key": {
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "S": {
+      "item": "createbigcannons:steel_ingot"
+    }
+  },
+  "result": {
+    "id": "cbccompletestealarmor:csa_gray",
+    "count": 8
+  }
+}

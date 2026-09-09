@@ -1,0 +1,27 @@
+{
+  "creativetab.cbccompletestealarmor.main": "CBC Complete Steel Armor",
+
+  "block.cbccompletestealarmor.sa_black": "Стальная броня — чёрная",
+  "block.cbccompletestealarmor.sa_gray": "Стальная броня — серая",
+  "block.cbccompletestealarmor.sa_green": "Стальная броня — зелёная",
+  "block.cbccompletestealarmor.sa_sand": "Стальная броня — песочная",
+  "block.cbccompletestealarmor.sa_steel": "Стальная броня — стальная",
+
+  "block.cbccompletestealarmor.ca_black": "Композитная броня — чёрная",
+  "block.cbccompletestealarmor.ca_gray": "Композитная броня — серая",
+  "block.cbccompletestealarmor.ca_green": "Композитная броня — зелёная",
+  "block.cbccompletestealarmor.ca_sand": "Композитная броня — песочная",
+  "block.cbccompletestealarmor.ca_steel": "Композитная броня — стальная",
+
+  "block.cbccompletestealarmor.csa_black": "Композитно-стальная броня — чёрная",
+  "block.cbccompletestealarmor.csa_gray": "Композитно-стальная броня — серая",
+  "block.cbccompletestealarmor.csa_green": "Композитно-стальная броня — зелёная",
+  "block.cbccompletestealarmor.csa_sand": "Композитно-стальная броня — песочная",
+  "block.cbccompletestealarmor.csa_steel": "Композитно-стальная броня — стальная",
+
+  "block.cbccompletestealarmor.nsa_black": "Незер-стальная броня — чёрная",
+  "block.cbccompletestealarmor.nsa_gray": "Незер-стальная броня — серая",
+  "block.cbccompletestealarmor.nsa_green": "Незер-стальная броня — зелёная",
+  "block.cbccompletestealarmor.nsa_sand": "Незер-стальная броня — песочная",
+  "block.cbccompletestealarmor.nsa_steel": "Незер-стальная броня — стальная"
+}
