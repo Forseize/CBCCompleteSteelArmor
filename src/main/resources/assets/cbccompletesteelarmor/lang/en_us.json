@@ -1,0 +1,27 @@
+{
+  "creativetab.cbccompletesteelarmor.main": "CBC Complete Steel Armor",
+
+  "block.cbccompletesteelarmor.sa_black": "steel Armor",
+  "block.cbccompletesteelarmor.sa_gray": "steel Armor",
+  "block.cbccompletesteelarmor.sa_green": "steel Armor",
+  "block.cbccompletesteelarmor.sa_sand": "steel Armor",
+  "block.cbccompletesteelarmor.sa_steel": "steel Armor",
+
+  "block.cbccompletesteelarmor.ca_black": "Composite Armor",
+  "block.cbccompletesteelarmor.ca_gray": "Composite Armor",
+  "block.cbccompletesteelarmor.ca_green": "Composite Armor",
+  "block.cbccompletesteelarmor.ca_sand": "Composite Armor",
+  "block.cbccompletesteelarmor.ca_steel": "Composite Armor",
+
+  "block.cbccompletesteelarmor.csa_black": "Composite-Steel Armor",
+  "block.cbccompletesteelarmor.csa_gray": "Composite-Steel Armor",
+  "block.cbccompletesteelarmor.csa_green": "Composite-Steel Armor",
+  "block.cbccompletesteelarmor.csa_sand": "Composite-Steel Armor",
+  "block.cbccompletesteelarmor.csa_steel": "Composite-Steel Armor",
+
+  "block.cbccompletesteelarmor.nsa_black": "Nether-Steel Armor",
+  "block.cbccompletesteelarmor.nsa_gray": "Nether-Steel Armor",
+  "block.cbccompletesteelarmor.nsa_green": "Nether-Steel Armor",
+  "block.cbccompletesteelarmor.nsa_sand": "Nether-Steel Armor",
+  "block.cbccompletesteelarmor.nsa_steel": "Nether-Steel Armor"
+}

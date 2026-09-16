@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "cbccompletestealarmor:block/sa_gray"
-  }
-}

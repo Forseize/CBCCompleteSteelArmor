@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "SNS"
+  ],
+  "key": {
+    "S": {
+      "item": "createbigcannons:steel_ingot"
+    },
+    "N": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "result": {
+    "id": "cbccompletesteelarmor:nsa_gray",
+    "count": 8
+  }
+}
