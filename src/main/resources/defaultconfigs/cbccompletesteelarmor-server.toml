@@ -1,15 +1,15 @@
 [sa]
 toughness = 20.0
-hardness = 1.0
+hardness = 2.0
 
 [ca]
-toughness = 28.0
-hardness = 1.5
+toughness = 23.0
+hardness = 2.0
 
 [csa]
-toughness = 34.0
+toughness = 27.0
 hardness = 2.0
 
 [nsa]
-toughness = 42.0
-hardness = 3.0
+toughness = 30.0
+hardness = 2.0
