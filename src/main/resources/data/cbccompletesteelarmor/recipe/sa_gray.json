@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "createbigcannons:steel_ingot"
+    }
+  },
+  "result": {
+    "id": "cbccompletesteelarmor:sa_gray",
+    "count": 8
+  }
+}
