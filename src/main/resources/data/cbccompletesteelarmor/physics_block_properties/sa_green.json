@@ -1,6 +1,6 @@
 {
   "selector": "cbccompletesteelarmor:sa_green",
   "properties": {
-    "sable:mass": 1.5
+    "sable:mass": 0.75
   }
 }
