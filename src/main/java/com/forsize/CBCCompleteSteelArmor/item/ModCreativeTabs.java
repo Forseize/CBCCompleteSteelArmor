@@ -25,24 +25,40 @@ public class ModCreativeTabs {
                                 output.accept(ModItems.SA_GREEN);
                                 output.accept(ModItems.SA_SAND);
                                 output.accept(ModItems.SA_STEEL);
+                                output.accept(ModItems.SA_BROWN);
+                                output.accept(ModItems.SA_LIME);
+                                output.accept(ModItems.SA_RED);
+                                output.accept(ModItems.SA_WHITE);
 
                                 output.accept(ModItems.CA_BLACK);
                                 output.accept(ModItems.CA_GRAY);
                                 output.accept(ModItems.CA_GREEN);
                                 output.accept(ModItems.CA_SAND);
                                 output.accept(ModItems.CA_STEEL);
+                                output.accept(ModItems.CA_BROWN);
+                                output.accept(ModItems.CA_LIME);
+                                output.accept(ModItems.CA_RED);
+                                output.accept(ModItems.CA_WHITE);
 
                                 output.accept(ModItems.CSA_BLACK);
                                 output.accept(ModItems.CSA_GRAY);
                                 output.accept(ModItems.CSA_GREEN);
                                 output.accept(ModItems.CSA_SAND);
                                 output.accept(ModItems.CSA_STEEL);
+                                output.accept(ModItems.CSA_BROWN);
+                                output.accept(ModItems.CSA_LIME);
+                                output.accept(ModItems.CSA_RED);
+                                output.accept(ModItems.CSA_WHITE);
 
                                 output.accept(ModItems.NSA_BLACK);
                                 output.accept(ModItems.NSA_GRAY);
                                 output.accept(ModItems.NSA_GREEN);
                                 output.accept(ModItems.NSA_SAND);
                                 output.accept(ModItems.NSA_STEEL);
+                                output.accept(ModItems.NSA_BROWN);
+                                output.accept(ModItems.NSA_LIME);
+                                output.accept(ModItems.NSA_RED);
+                                output.accept(ModItems.NSA_WHITE);
                             })
                             .build()
             );
